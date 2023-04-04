@@ -12,6 +12,9 @@
   "bugs": {
     "url": "https://github.com/deansheather/recky.tech/issues"
   },
+  "engines": {
+  "node": "11.15.0
+  },
   "homepage": "https://github.com/deansheather/recky.tech#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
