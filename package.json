@@ -1,0 +1,27 @@
+{
+  "name": "recky.tech",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This is a meme made about b1nzy, a Discord developer.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deansheather/recky.tech.git"
+  },
+  "author": "Dean Sheather <dean@deansheather.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deansheather/recky.tech/issues"
+  },
+  "homepage": "https://github.com/deansheather/recky.tech#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-changed": "^3.2.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-if": "^2.0.1",
+    "gulp-uglify": "^3.0.1",
+    "gulp-useref": "^3.1.6",
+    "gulp-version-number": "^0.2.0",
+    "natives": "^1.1.6"
+  }
+}
