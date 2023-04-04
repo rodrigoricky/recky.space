@@ -14,7 +14,7 @@
   },
   
   "engines": {
-  "node": "11.15.0"
+  "node": "^11.x"
   },
   "homepage": "https://github.com/deansheather/recky.tech#readme",
   "devDependencies": {
