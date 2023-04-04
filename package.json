@@ -13,9 +13,6 @@
     "url": "https://github.com/deansheather/recky.tech/issues"
   },
   
-  "engines": {
-  "node": "^11.x"
-  },
   "homepage": "https://github.com/deansheather/recky.tech#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
@@ -23,9 +20,11 @@
     "gulp-changed": "^3.2.0",
     "gulp-clean-css": "^3.10.0",
     "gulp-if": "^2.0.1",
+    
     "gulp-uglify": "^3.0.1",
     "gulp-useref": "^3.1.6",
     "gulp-version-number": "^0.2.0",
+    "graceful-fs": "4.2.2",
     "natives": "^1.1.6"
   }
 }
